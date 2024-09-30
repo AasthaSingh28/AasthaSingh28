@@ -1,8 +1,6 @@
 <h1 align="center">Hey 👋, I'm Aastha Singh</h1>
 <h3 align="center">A passionate frontend developer from India, delivering scalable and efficient applications.</h3>
-<img width="300" src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" align="right">
-
-
+<img width="300" align="right" src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aasthasingh289&label=Profile%20views&color=0e75b6&style=flat" alt="aasthasingh289" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aasthasingh289" alt="aasthasingh289" /></a> </p>
@@ -22,3 +20,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aasthasingh289&show_icons=true&locale=en" alt="aasthasingh289" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aasthasingh289&" alt="aasthasingh289" /></p>
+
