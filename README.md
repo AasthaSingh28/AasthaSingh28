@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋, I'm Aastha Singh</h1>
 <h3 align="center">A passionate frontend developer from India, delivering scalable and efficient applications.</h3>
-<img width="300" align="right" src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif">
+<img width="300" height="300" align="right" src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aasthasingh28&label=Profile%20views&color=0e75b6&style=flat" alt="aasthasingh28" /> </p>
 
